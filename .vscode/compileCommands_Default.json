@@ -1,0 +1,74 @@
+[
+	{
+		"file": "E:\\Game Development\\MultiplayerCourse\\Source\\MultiplayerCourse\\MultiplayerCourse.Build.cs",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Game Development\\MultiplayerCourse\\.vscode\\compileCommands_Default\\MultiplayerCourse.261.rsp"
+		],
+		"directory": "F:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Game Development\\MultiplayerCourse\\Source\\MultiplayerCourse\\MultiplayerCourse.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Game Development\\MultiplayerCourse\\.vscode\\compileCommands_Default\\MultiplayerCourse.261.rsp"
+		],
+		"directory": "F:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Game Development\\MultiplayerCourse\\Source\\MultiplayerCourse\\MultiplayerCourse.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Game Development\\MultiplayerCourse\\.vscode\\compileCommands_Default\\MultiplayerCourse.261.rsp"
+		],
+		"directory": "F:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Game Development\\MultiplayerCourse\\Source\\MultiplayerCourse\\MultiplayerCourseCharacter.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Game Development\\MultiplayerCourse\\.vscode\\compileCommands_Default\\MultiplayerCourse.261.rsp"
+		],
+		"directory": "F:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Game Development\\MultiplayerCourse\\Source\\MultiplayerCourse\\MultiplayerCourseCharacter.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Game Development\\MultiplayerCourse\\.vscode\\compileCommands_Default\\MultiplayerCourse.261.rsp"
+		],
+		"directory": "F:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Game Development\\MultiplayerCourse\\Source\\MultiplayerCourse\\MultiplayerCourseGameMode.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Game Development\\MultiplayerCourse\\.vscode\\compileCommands_Default\\MultiplayerCourse.261.rsp"
+		],
+		"directory": "F:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Game Development\\MultiplayerCourse\\Source\\MultiplayerCourse\\MultiplayerCourseGameMode.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Game Development\\MultiplayerCourse\\.vscode\\compileCommands_Default\\MultiplayerCourse.261.rsp"
+		],
+		"directory": "F:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Game Development\\MultiplayerCourse\\Source\\MultiplayerCourse\\MyBox.cpp",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Game Development\\MultiplayerCourse\\.vscode\\compileCommands_Default\\MultiplayerCourse.261.rsp"
+		],
+		"directory": "F:\\UE_5.2\\Engine\\Source"
+	},
+	{
+		"file": "E:\\Game Development\\MultiplayerCourse\\Source\\MultiplayerCourse\\MyBox.h",
+		"arguments": [
+			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@E:\\Game Development\\MultiplayerCourse\\.vscode\\compileCommands_Default\\MultiplayerCourse.261.rsp"
+		],
+		"directory": "F:\\UE_5.2\\Engine\\Source"
+	}
+]
